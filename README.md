@@ -8,8 +8,8 @@ I recommend reading the [Official Modding Guide: How to create ELS mods](https:/
 # How To
 
 ## Start BrickstonAlley
-1. Download the latest release version of BrickstonAlley
-2. Extract the downloaded zip files
+1. [Download BrickstonAlley](https://steamcommunity.com/sharedfiles/filedetails/?id=2816922331) by subscribing in the Steam Workshop
+2. Navigate to the download location (**PATH_TO_YOUR_STEAM/Workshop/content/997010/2816922331**)
 3. Start the **BrickstonAlley.exe** executable
 
 ## Create ELS Tracks
